@@ -15,7 +15,9 @@ public class SubmitToolLauncher : ModuleRules
 				"CoreUObject",
 				"Engine",
 				"SourceControlWindows",
-				"DeveloperSettings"
+				"SourceControl",
+				"DeveloperSettings",
+				"DataValidation"
 			}
 		);
 	}
